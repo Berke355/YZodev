@@ -1,5 +1,4 @@
 1- Bildirim.
 2- tweet atma.
-3- hikayeler.
-4- hashtag.
-5- yorum yapma
+3- hashtag.
+4- yorum yapma
