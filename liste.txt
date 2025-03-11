@@ -1,0 +1,4 @@
+1- Bildirim.
+2- tweet atma.
+3- hikayeler.
+4- hashtag.
